@@ -13,12 +13,10 @@
 ## Data Source
 This project is assigned to us as a part of our curriculum for "Applied Machine Learning" at The University of Texas at Dallas. The dataset for this project and the
 problem statement are inspired by a [case study](https://www.tandfonline.com/doi/full/10.1080/08839514.2018.1451032) published in the Applied Artificial Intelligence Journal.
-They in turn collected this data from CAG of India. Comptroller and Auditor General (CAG) of India is an independent constitutional
+They collected this data from CAG of India. Comptroller and Auditor General (CAG) of India is an independent constitutional
 body of India. It is an authority that audits receipts and expenditure
 of all the firms that are financed by the government of India. While maintaining
-the secrecy of the data, exhaustive one year nonconfidential data
-ð2015  2016Þ of firms is collected from the Auditor General Office (AGO)
-of CAG. There are total 777 firms from 46 different cities of a state that are
+the secrecy of the data, exhaustive one year(2015 - 2016) nonconfidential data of firms is collected from the Auditor General Office (AGO) of CAG. There are total 777 firms from 46 different cities of a state that are
 listed by the auditors for targeting the next field-audit work. The targetoffices
 are listed from 14 different sectors.
 
