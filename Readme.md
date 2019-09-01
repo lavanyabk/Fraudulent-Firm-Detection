@@ -22,7 +22,7 @@ are listed from 14 different sectors.
 
 ## Data Description
 The dataset was made available through 2 csv files – audit_risk and trial. The audit_risk has 27 columns and trial has 18 columns. The 27 columns in audit_risk file are the following: 
-Sector_Score – Historical risk score value for each target sector
+* Sector_Score – Historical risk score value for each target sector
 * LOCATION_ID – Unique ID of the city or province
 * PARA_A - Discrepancy found in the planned expenditure of inspection and summary report A in Rs (in crore)
 * SCORE_A, RISK_A – These columns can be derived from the PARA_A
